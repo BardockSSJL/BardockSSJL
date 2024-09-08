@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Fray Alonso and I'm a computer science student.
+
+- 🔭 I’m currently working on my third to las semester in college.
+<br>At the same time, I'm working as assistant to the head of information systems
+at the Institute of Psychological Research and at the School of Information and
+Computer Science.
+- 🌱 I’m currently learning about game engine building as well web app design.
+- 
 <!--
 **BardockSSJL/BardockSSJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
